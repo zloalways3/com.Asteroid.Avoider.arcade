@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f3b7c23-7309-431c-b202-6c4ef385e450" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelManagerV2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LoadingScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RandomSpawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/UIManager.cs" />
+        <option value="$PROJECT_DIR$/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Coin.cs" />
+        <option value="$PROJECT_DIR$/Fire.cs" />
+        <option value="$PROJECT_DIR$/CoinsSpawner.cs" />
+        <option value="$PROJECT_DIR$/PlayerTrigger.cs" />
+        <option value="$PROJECT_DIR$/RandomSpawner.cs" />
+        <option value="$PROJECT_DIR$/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/LevelManagerV2.cs" />
+        <option value="$PROJECT_DIR$/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/GameManager.cs" />
+        <option value="$PROJECT_DIR$/LoadingScreen.cs" />
+        <option value="$PROJECT_DIR$/PlayerMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2myC1p9Lq654hbJsxISetbFoN8U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f3b7c23-7309-431c-b202-6c4ef385e450" name="Default Changelist" comment="" />
+      <created>1728039220023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728039220023</updated>
+      <workItem from="1728039221340" duration="1789000" />
+      <workItem from="1728049554829" duration="11581000" />
+      <workItem from="1728129571035" duration="9863000" />
+      <workItem from="1728140509651" duration="1731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1617" y="315" key="search.everywhere.popup" timestamp="1728062908184">
+      <screen x="-2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-1617" y="315" key="search.everywhere.popup/-2560.0.2560.1400/0.0.1920.1040@-2560.0.2560.1400" timestamp="1728062908184" />
+  </component>
+</project>
